@@ -10,4 +10,4 @@ Pillow=6.2.0
 matplotlib=3.1.1
 ```
 
-Trained model weights can be found in the ckpt folder.
+Trained model weights exceed the maximum allowed file size. Contact at xuzhai@g.ucla.edu should you need the trained models.
